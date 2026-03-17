@@ -1,0 +1,5 @@
+{
+  "name": "Irish Seasonal Drink Recommender",
+  "description": "A modern web app that recommends traditional Irish drinks based on Celtic seasons and current weather conditions.",
+  "requestFramePermissions": ["geolocation"]
+}
